@@ -9,3 +9,6 @@ When you're working hard at becomming a data scientist!
 
 We'll create histograms, bars standing tall,
 But bins hide secrets, they can't reveal all.
+
+With ggplot's grace, we’ll chart every tale,
+From scatter to boxplot, insights set sail.
